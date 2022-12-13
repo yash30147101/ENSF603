@@ -1,2 +1,6 @@
 # ENSF603
-ProjectFiles
+Team Members:
+
+Yashkumar Trada
+Anish Mukherjee
+Harsh Mishra
