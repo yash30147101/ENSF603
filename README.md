@@ -1,6 +1,6 @@
 # ENSF603
 Team Members:
 
-Yashkumar Trada
-Anish Mukherjee
+Yashkumar Trada</br>
+Anish Mukherjee</br>
 Harsh Mishra
